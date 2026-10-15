@@ -1,0 +1,38 @@
+[
+    {
+        "title": "E-Commerce Sentiment Analyzer",
+        "developer": "Aarushi Sharma",
+        "college": "Arya College",
+        "problem": "Unstructured customer reviews make it hard for businesses to improve products.",
+        "description": "An AI-driven dashboard that categorizes thousands of reviews into positive, negative, and neutral sentiments automatically.",
+        "tools": "Python, Streamlit, Pandas, NLTK",
+        "outcome": "Reduced review analysis time by 70% for sample local retail businesses."
+    },
+    {
+        "title": "Smart Attendance Tracker",
+        "developer": "Rahul Verma",
+        "college": "Arya College",
+        "problem": "Manual attendance marking in lectures wastes 10-15 minutes of class time.",
+        "description": "A lightweight application that tracks student attendance securely using local system data inputs.",
+        "tools": "Python, OpenCV, Tkinter",
+        "outcome": "Successfully tested with a small batch of 30 students to automate logging."
+    },
+    {
+        "title": "smart traffic system",
+        "developer": "Aarushi Sharma",
+        "college": "Arya College",
+        "problem": "traffic jams waste hours of comumuting time in local cities",
+        "description": "a python dash board that uses sensor data to optimize traffic light timers",
+        "tools": "python ,streamlit,json",
+        "outcome": "reduces waiting time"
+    },
+    {
+        "title": "order management ",
+        "developer": "arushi",
+        "college": "Arya College",
+        "problem": "to manage the inventory",
+        "description": "na",
+        "tools": "python",
+        "outcome": "to make small businesses"
+    }
+]
